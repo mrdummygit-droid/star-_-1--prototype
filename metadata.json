@@ -1,0 +1,11 @@
+{
+  "name": "Remix Star AI Assistants",
+  "description": "Futuristic Android AI command center featuring voice recognition, coding matrix, facial emotion scanner, email \u0026 file management, search engine synthesis, API orchestrator, and self-replication protocol.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
